@@ -1,0 +1,7 @@
+com/postgres/android_proyect/models/CreateAndroidVersionRequest.class
+com/postgres/android_proyect/repository/AndroidRepository.class
+com/postgres/android_proyect/CorsConfig.class
+com/postgres/android_proyect/controllers/Androidversioncontroller.class
+com/postgres/android_proyect/AndroidProyectApplication.class
+com/postgres/android_proyect/models/android_tweet.class
+com/postgres/android_proyect/CorsConfig$1.class

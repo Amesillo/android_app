@@ -1,0 +1,6 @@
+/home/ame/android_app/src/main/java/com/postgres/android_proyect/AndroidProyectApplication.java
+/home/ame/android_app/src/main/java/com/postgres/android_proyect/CorsConfig.java
+/home/ame/android_app/src/main/java/com/postgres/android_proyect/controllers/Androidversioncontroller.java
+/home/ame/android_app/src/main/java/com/postgres/android_proyect/models/CreateAndroidVersionRequest.java
+/home/ame/android_app/src/main/java/com/postgres/android_proyect/models/android_tweet.java
+/home/ame/android_app/src/main/java/com/postgres/android_proyect/repository/AndroidRepository.java
